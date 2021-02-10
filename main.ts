@@ -1,3 +1,5 @@
-game.splash("In una galassia lontana...")
-game.splash("Ci fu un invasione ")
-game.splash("")
+game.splash("In una galassia lontana...", "ci fu un invasione")
+game.splash("di pipistrelli", "nel pianeta delle caverne")
+game.splash("ma una navicella", "con al suo interno un umano")
+game.splash("", "ce la farà il nostro eroe?")
+game.splash("Space Cavern")
